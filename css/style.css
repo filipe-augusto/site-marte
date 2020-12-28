@@ -1,0 +1,23 @@
+.scrollSpySite {
+    position: relative;
+    overflow: auto;
+    height: 460px;
+}
+
+.fundo {
+    /* background-image: url('../imgs/m8.jpg');*/
+    background-color: black;
+
+}
+
+.imgSolo {
+    width: 95%
+}
+
+.tamanho-img {
+    height: 220px;
+}
+
+.black {
+    background-color: black;
+}
